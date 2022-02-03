@@ -5,12 +5,12 @@
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://dev-platong.github.io/pages/vad]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
-  <vmap:AdBreak timeOffset="00:20:00" breakType="linear" breakId="midroll-1">
+  <vmap:AdBreak timeOffset="00:01:00" breakType="linear" breakId="midroll-1">
     <vmap:AdSource id="midroll-1-ad-1">
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://dev-platong.github.io/pages/vad]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
-  <vmap:AdBreak timeOffset="00:22:42" breakType="linear" breakId="midroll-2">
+  <vmap:AdBreak timeOffset="00:01:30" breakType="linear" breakId="midroll-2">
     <vmap:AdSource id="midroll-2-ad-1">
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://dev-platong.github.io/pages/vad]]></vmap:AdTagURI>
     </vmap:AdSource>
