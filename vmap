@@ -2,12 +2,12 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
   <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll-1">
     <vmap:AdSource id="preroll-1-ad-1">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://pages/vad]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://dev-platong.github.io/pages/vad]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:22:42" breakType="linear" breakId="midroll-1">
     <vmap:AdSource id="midroll-1-ad-1">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://pages/vad]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://dev-platong.github.io/pages/vad]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
 </vmap:VMAP>
